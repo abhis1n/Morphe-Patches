@@ -34,16 +34,6 @@ Click here to add these patches to Morphe: https://morphe.software/add-source?gi
 
 Or manually add this repository url as a patch source in Morphe: https://github.com/abhis1n/morphe-patches
 
-### 📙 Contributing
-
-Thank you for considering contributing to Abhis1n Morphe Patches template.
-You can find the contribution guidelines [here](CONTRIBUTING.md).
-
-### 🛠️ Building
-
-To build Abhis1n Morphe Patches template,
-you can follow the [Morphe documentation](https://github.com/MorpheApp/morphe-documentation).
-
 ## 📜 License
 
 Abhis1n Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE)
