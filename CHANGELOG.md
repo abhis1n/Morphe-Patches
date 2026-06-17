@@ -1,3 +1,10 @@
+## [1.0.1-dev.1](https://github.com/abhis1n/Morphe-Patches/compare/v1.0.0...v1.0.1-dev.1) (2026-06-17)
+
+
+### Bug Fixes
+
+* force release v26.5.5 after non-semantic commits ([7fb1e15](https://github.com/abhis1n/Morphe-Patches/commit/7fb1e15a5319b042a508f285757ef0c37a9cbd5e))
+
 # 1.0.0 (2026-04-29)
 
 
